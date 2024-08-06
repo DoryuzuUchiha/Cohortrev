@@ -1,0 +1,14 @@
+C:\Users\diego\Cohort08052024\Day2\codingfundamentals\bin\Debug\net8.0\codingfundamentals.exe
+C:\Users\diego\Cohort08052024\Day2\codingfundamentals\bin\Debug\net8.0\codingfundamentals.deps.json
+C:\Users\diego\Cohort08052024\Day2\codingfundamentals\bin\Debug\net8.0\codingfundamentals.runtimeconfig.json
+C:\Users\diego\Cohort08052024\Day2\codingfundamentals\bin\Debug\net8.0\codingfundamentals.dll
+C:\Users\diego\Cohort08052024\Day2\codingfundamentals\bin\Debug\net8.0\codingfundamentals.pdb
+C:\Users\diego\Cohort08052024\Day2\codingfundamentals\obj\Debug\net8.0\codingfundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Cohort08052024\Day2\codingfundamentals\obj\Debug\net8.0\codingfundamentals.AssemblyInfoInputs.cache
+C:\Users\diego\Cohort08052024\Day2\codingfundamentals\obj\Debug\net8.0\codingfundamentals.AssemblyInfo.cs
+C:\Users\diego\Cohort08052024\Day2\codingfundamentals\obj\Debug\net8.0\codingfundamentals.csproj.CoreCompileInputs.cache
+C:\Users\diego\Cohort08052024\Day2\codingfundamentals\obj\Debug\net8.0\codingfundamentals.dll
+C:\Users\diego\Cohort08052024\Day2\codingfundamentals\obj\Debug\net8.0\refint\codingfundamentals.dll
+C:\Users\diego\Cohort08052024\Day2\codingfundamentals\obj\Debug\net8.0\codingfundamentals.pdb
+C:\Users\diego\Cohort08052024\Day2\codingfundamentals\obj\Debug\net8.0\codingfundamentals.genruntimeconfig.cache
+C:\Users\diego\Cohort08052024\Day2\codingfundamentals\obj\Debug\net8.0\ref\codingfundamentals.dll
